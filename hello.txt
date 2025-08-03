@@ -1,2 +1,3 @@
 Hello, Git world!
 And then goodbye!
+I need to add 1 more thing.
